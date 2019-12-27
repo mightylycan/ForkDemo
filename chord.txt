@@ -1,0 +1,13 @@
+Verse:
+G D EM
+AM G D
+
+BRIDGE:
+EM C G
+EM C G
+EM C G D
+EM C D
+
+REFF:
+G D EM C
+G D GF
